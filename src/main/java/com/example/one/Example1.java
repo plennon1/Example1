@@ -29,5 +29,10 @@ public class Example1 {
 		int total = first * second;
 		
 	}
+	public void divide(int first, int second)
+	{
+		int total = first / second;
+	}
+	
 
 }
