@@ -23,5 +23,11 @@ public class Example1 {
 		int total = first - second;
 		
 	}
+	
+	public void mult(int first, int second)
+	{
+		int total = first * second;
+		
+	}
 
 }
