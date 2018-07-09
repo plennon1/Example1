@@ -23,12 +23,14 @@ public class Example1 {
 	public void sub(int first, int second)
 	{
 		int total = first - second;
+		//System.out.println("Adding numbers " + total);
 		
 	}
 	
 	public void mult(int first, int second)
 	{
 		int total = first * second;
+		//System.out.println("Adding numbers " + total);
 		
 	}
 	public void divide(int first, int second)
