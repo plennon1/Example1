@@ -31,6 +31,7 @@ public class Example1 {
 	{
 		int total = first * second;
 		//System.out.println("Adding numbers " + total);
+		System.out.println("Adding something different here");
 		
 	}
 	public void divide(int first, int second)
