@@ -32,7 +32,8 @@ public class Example1 {
 		int total = first * second;
 		System.out.println("Mult numbers " + total);
 		System.out.println("New line added for method Mult");
-		
+		//System.out.println("Adding numbers " + total);
+		System.out.println("Adding something different here");	
 	}
 	public void divide(int first, int second)
 	{
