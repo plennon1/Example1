@@ -16,6 +16,7 @@ public class Example1 {
 	public void add(int first, int second)
 	{
 		int total = first + second;
+		System.out.println("Adding numbers " + total);
 		
 	}
 	
