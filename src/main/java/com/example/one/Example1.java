@@ -23,7 +23,8 @@ public class Example1 {
 	public void sub(int first, int second)
 	{
 		int total = first - second;
-		//System.out.println("Adding numbers " + total);
+		System.out.println("Subtracting numbers\n");
+		System.out.println("The result is "+ total);
 		
 	}
 	
